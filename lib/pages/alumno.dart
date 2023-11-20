@@ -14,7 +14,7 @@ class Estudiante {
   final double nota3;
   final double nota4;
   final String resultado;
-
+//CAMBIOS
   Estudiante({
     required this.id,
     required this.nombre,
