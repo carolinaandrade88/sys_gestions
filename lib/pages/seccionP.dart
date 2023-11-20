@@ -92,8 +92,7 @@ class _MyHomePageState extends State<MyHomePage2> {
       appBar: AppBar(
         title: Text('Búsqueda de estudiantes'),
       ),
-      body: SingleChildScrollView(
-        child: Column(
+      body:Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: <Widget>[
             Padding(
@@ -173,7 +172,6 @@ class _MyHomePageState extends State<MyHomePage2> {
                 ),
           ],
         ),
-      ),
     );
   }
 }
