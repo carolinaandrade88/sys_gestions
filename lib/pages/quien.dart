@@ -4,7 +4,7 @@ import 'package:sys_gestion/views/sign_up_auth.dart';
 import 'package:sys_gestion/views/sing_up_authP.dart';
 
 
-
+// rebeca ortiz
 class quienPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
