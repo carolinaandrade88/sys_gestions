@@ -26,7 +26,7 @@ class _StudentAttendancePageState extends State<StudentAttendancePage> {
         _studentNameController.clear();
         _isPresent = false;
         _hasPermission = false;
-        
+        // Actualizacion
       });
     } catch (e) {
       print('Error al marcar la asistencia: $e');
