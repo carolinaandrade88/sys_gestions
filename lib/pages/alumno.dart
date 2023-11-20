@@ -14,7 +14,7 @@ class Estudiante {
   final double nota3;
   final double nota4;
   final String resultado;
-
+//CAMBIOS
   Estudiante({
     required this.id,
     required this.nombre,
@@ -79,7 +79,6 @@ class _MyHomePageState extends State<MyHomePage> {
       }).toList();
     });
   }
-
   Future<void> agregarEstudiante() async {
     String nombre = _nombreController.text;
     int edad = int.tryParse(_edadController.text) ?? 0;
@@ -128,6 +127,8 @@ if (_nombreController.text == '' || _edadController.text == '') {
       print('Error al agregar estudiante: $e');
     }
   }
+
+
   }
 
 
