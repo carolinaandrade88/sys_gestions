@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27080870506",
+    "project_id": "gestionestudiante-5ced1",
+    "storage_bucket": "gestionestudiante-5ced1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27080870506:android:08b4e2d39f71bccf355813",
+        "android_client_info": {
+          "package_name": "com.sysestudiantes.sys_gestion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg-CM4h-wkj4Cb02DZ7MDIsmwoCIqSXkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
